@@ -1,0 +1,33 @@
+Titanic Survival Prediction
+
+Project Overview
+This project predicts whether a passenger survived the Titanic disaster using machine learning.
+
+Dataset
+- Titanic Dataset
+- Target column: Survived
+
+Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+Steps Followed
+- Data cleaning
+- Handling missing values
+- Encoding categorical features
+- Model training using Logistic Regression
+- Model evaluation
+
+Result
+The model predicts survival with good accuracy.
+
+Folder Structure
+Titanic-Survival-Prediction/
+- Titanic_Survival_Prediction.ipynb
+- README.md
+- dataset/
+  - Titanic-Dataset.csv
